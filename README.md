@@ -1,6 +1,7 @@
 # Vagrant + bash = Puppet!
 
 A Vagrant environment orchestrated with bash to create a Puppet Lab.
+
 Just `vagrant ssh puppet` and start playing!
 
 # What do we have here?

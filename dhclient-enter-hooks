@@ -1,0 +1,4 @@
+make_resolv_conf() {
+    # Do not overwrite /etc/resolv.conf.
+    return 0
+}
